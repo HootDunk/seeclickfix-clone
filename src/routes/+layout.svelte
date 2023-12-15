@@ -25,6 +25,7 @@
 		height: var(--header-height);
 		/* color: hsl(var(--content)); */
 		background-color: hsl(var(--primary));
+		color: hsl(var(--primary-content));
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
