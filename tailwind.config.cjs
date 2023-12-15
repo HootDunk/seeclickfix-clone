@@ -6,7 +6,10 @@ const config = {
 		extend: {}
 	},
 
-	plugins: [require('@tailwindcss/forms'), require('stwui/plugin')]
+	plugins: [require('@tailwindcss/forms'), require('stwui/plugin')],
+	stwui: {
+		themes: ['light']
+	}
 };
 
 module.exports = config;
