@@ -11,19 +11,17 @@
 			<Card>
 				<!-- <Card.Header slot="header">{item.summary}</Card.Header> -->
 
-				<Card.Content slot="content">
+				<div slot="content">
+					{item.summary}
 					{#if item.media.image_full}
-						<Card.Cover class="p-0 px-0">
-							{item.summary}
-							<img
-								src={item.media.image_full}
-								alt="cover"
-								class="object-cover object-center w-full aspect-1 h-[300px]"
-							/>
-						</Card.Cover>
+						<img
+							src={item.media.image_full}
+							alt="cover"
+							class="object-cover object-center w-full aspect-1 h-[300px]"
+						/>
 					{/if}
-					card content
-				</Card.Content>
+					testing below img
+				</div>
 			</Card>
 		</li>
 	{/each}
