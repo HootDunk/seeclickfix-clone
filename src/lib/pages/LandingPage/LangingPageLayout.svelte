@@ -18,6 +18,7 @@
 
 	aside {
 		overflow-y: auto;
+		max-height: calc(100vh - var(--header-height));
 	}
 
 	@media (min-width: 64rem) {

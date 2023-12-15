@@ -44,7 +44,7 @@
 </script>
 
 <LangingPageLayout>
-	<div slot="side-bar">
+	<svelte:fragment slot="side-bar">
 		{#if issuesResponse.type === 'success'}
 			<div class="px-4">
 				<h2 class="flex justify-between items-center text-base mt-4">
@@ -61,7 +61,7 @@
 			</div>
 			<IssuesList issuesResponse={issuesResponse.value} />
 		{/if}
-	</div>
+	</svelte:fragment>
 
 	<svelte:fragment slot="main-content">
 		<h1>main-content</h1>

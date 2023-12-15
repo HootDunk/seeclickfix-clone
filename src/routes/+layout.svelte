@@ -38,4 +38,8 @@
 	main {
 		height: calc(100vh - var(--header-height));
 	}
+
+	:global() {
+		--header-height: 4rem;
+	}
 </style>
