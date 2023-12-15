@@ -1,0 +1,36 @@
+// Returns list of submitted issues
+curl 'https://seeclickfix.com/api/v2/issues?lat=36.06320000000005&lng=-94.15790999999996&status=open%2Cacknowledged%2Cclosed&fields%5Bissue%5D=id%2Csummary%2Cdescription%2Cstatus%2Clat%2Clng%2Caddress%2Cmedia%2Ccreated_at%2Cacknowledged_at%2Cclosed_at&page=1' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: guid=031664546f08c98eca014a302135fc68e885fdb7; portal-session=%7B%22authenticated%22%3A%7B%7D%7D; _scf_session_key=3182e553b7f46a585cef85d163be06b7' \
+  -H 'If-None-Match: W/"fdf7308e1480198619d3947d2fa155a3"' \
+  -H 'Referer: https://seeclickfix.com/web_portal/E79oLnFioicWGNJ1z93qEujE/issues/map' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'X-SCF-Portal-Token: E79oLnFioicWGNJ1z93qEujE' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  --compressed
+
+  
+// Returns list of submittable issue types (GET Service List)
+curl 'https://seeclickfix.com/api/v2/issues/new?lat=36.06320000000005&lng=-94.15790999999996' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: guid=031664546f08c98eca014a302135fc68e885fdb7; portal-session=%7B%22authenticated%22%3A%7B%7D%7D; _scf_session_key=3182e553b7f46a585cef85d163be06b7' \
+  -H 'If-None-Match: W/"d0effa54b8fea290edd339375d4362a0"' \
+  -H 'Referer: https://seeclickfix.com/web_portal/E79oLnFioicWGNJ1z93qEujE/issues/map' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'X-SCF-Portal-Token: E79oLnFioicWGNJ1z93qEujE' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  --compressed

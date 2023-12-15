@@ -1,0 +1,51 @@
+{
+	"id": 36722,
+	"title": "Street Maintenance Request",
+	"permit_guest_reporting": true,
+	"permit_anonymous_reporting": true,
+	"questions": [
+		{
+			"primary_key": "summary",
+			"question": "Issue Title",
+			"question_type": "text",
+			"answer_kept_private": false,
+			"max_length": null,
+			"response_required": true
+		},
+		{
+			"primary_key": "description",
+			"question": "Description",
+			"question_type": "textarea",
+			"answer_kept_private": false,
+			"max_length": null,
+			"response_required": false
+		},
+		{
+			"primary_key": "60144",
+			"question": "Type of problem:",
+			"question_type": "select",
+			"answer_kept_private": false,
+			"max_length": null,
+			"response_required": false,
+			"select_values": [
+				{ "key": "Pothole", "name": "Pothole" },
+				{ "key": "Debris in Road", "name": "Debris in Road" },
+				{ "key": "Tree Issue", "name": "Tree Issue" },
+				{ "key": "Pavement Markings", "name": "Pavement Markings Issue" },
+				{ "key": "Street Sweeping", "name": "Street Sweeping Request" },
+				{ "key": "Other", "name": "Other" }
+			]
+		},
+		{
+			"primary_key": "issue_image",
+			"question": "Image",
+			"question_type": "file",
+			"answer_kept_private": false,
+			"max_length": null,
+			"response_required": false
+		}
+	],
+	"private_visibility": false,
+	"block_submission": false,
+	"organization": "City of Fayetteville - Public Works"
+}

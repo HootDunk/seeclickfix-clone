@@ -1,0 +1,397 @@
+{
+	"issues": [
+		{
+			"id": 15725696,
+			"status": "Acknowledged",
+			"summary": "Park Maintenance Request",
+			"description": "This is probably more of an issue for animals services, but on Kessler Mountain Rd there is a house where their dogs run after you almost every time you go by it. That has been the case for me, and I've heard from other hikers and runners that is also the case. It is the house after the flat part on the road, right before it starts going uphill again. There is a chimney in the yard. I'm not sure if something can be done about this or if someone can give them a citation, but it really has become a problem since their dogs have aggressively run after me most times I hike by there. I saw there is a number to call animal services, please let me know if I need to do that instead.\n\n-Erich Washausen\newashausen11@gmail.com",
+			"lat": 36.0192030417825,
+			"lng": -94.2127887193835,
+			"address": "3641 W Kessler Mountain Rd Fayetteville, AR, 72701, USA",
+			"created_at": "2023-12-10T16:18:10-05:00",
+			"acknowledged_at": "2023-12-10T16:18:12-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15725696",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories_trans/no-image-af3faf07f478451d4ca455f92af96dd763f686e943607309ed059ef4fe13be21.png"
+			}
+		},
+		{
+			"id": 15724846,
+			"status": "Acknowledged",
+			"summary": "Street Maintenance Request",
+			"description": "CRASH DEBRIS IN THE ROADWAY -CDC ",
+			"lat": 36.0773890313065,
+			"lng": -94.1664133048389,
+			"address": "N Gregg Ave & W North St Fayetteville, AR, 72703, USA",
+			"created_at": "2023-12-10T11:04:30-05:00",
+			"acknowledged_at": "2023-12-10T11:04:32-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15724846",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories/pothole-e09869431979395692cc8e63399760868f40c06b83c09dfc701458aa1412bce8.png"
+			}
+		},
+		{
+			"id": 15722668,
+			"status": "Acknowledged",
+			"summary": "Street Lighting Issue",
+			"description": "We contacted our landlord back in September to resolve this issue and they haven't. So we are seeing what the next steps need to be to get this lamppost fixed as well as all the others in our area as it's not safe. This is what we wrote to them:",
+			"lat": 36.0838694217342,
+			"lng": -94.1862959015119,
+			"address": "1878 W Pleasant Woods Dr Fayetteville, Arkansas, 72703",
+			"created_at": "2023-12-09T10:35:31-05:00",
+			"acknowledged_at": "2023-12-09T10:35:41-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15722668",
+			"media": {
+				"video_url": null,
+				"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT296SGdFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e3debe180a7b2d0cf8465c39d12e25f0a4b86bd1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/17021359080043848977183754295795.jpg",
+				"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT296SGdFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e3debe180a7b2d0cf8465c39d12e25f0a4b86bd1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/17021359080043848977183754295795.jpg",
+				"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT296SGdFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e3debe180a7b2d0cf8465c39d12e25f0a4b86bd1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/17021359080043848977183754295795.jpg"
+			}
+		},
+		{
+			"id": 15720493,
+			"status": "Acknowledged",
+			"summary": "Street Maintenance Request",
+			"description": "App having a hard time adding photo.  Will try later!\n\nThere is street a repair at the driveway of 1969 Austin that is very hard on tires",
+			"lat": 36.0885660059131,
+			"lng": -94.1469078145978,
+			"address": "1913-1999 N Austin Dr Fayetteville, AR, 72703, USA",
+			"created_at": "2023-12-08T14:47:53-05:00",
+			"acknowledged_at": "2023-12-08T14:47:54-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15720493",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories_trans/no-image-af3faf07f478451d4ca455f92af96dd763f686e943607309ed059ef4fe13be21.png"
+			}
+		},
+		{
+			"id": 15719421,
+			"status": "Acknowledged",
+			"summary": "Traffic Signal/Sign Issue",
+			"description": "Manual override left unlocked and controller hanging out of street light controller.",
+			"lat": 36.0773575399408,
+			"lng": -94.1756116972251,
+			"address": "1025 N Garland Ave Fayetteville AR 72701, United States",
+			"created_at": "2023-12-08T12:03:21-05:00",
+			"acknowledged_at": "2023-12-08T12:03:37-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15719421",
+			"media": {
+				"video_url": null,
+				"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT2ZUSFFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--94de4c7e08ac20049f4cc3a924c1d37c31361c2f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/image.jpg",
+				"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT2ZUSFFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--94de4c7e08ac20049f4cc3a924c1d37c31361c2f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg",
+				"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT2ZUSFFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--94de4c7e08ac20049f4cc3a924c1d37c31361c2f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
+			}
+		},
+		{
+			"id": 15719412,
+			"status": "Closed",
+			"summary": "Traffic Signal/Sign Issue",
+			"description": "The business is called Presley page, and they have thousands of signs that move on the exterior of their building. The Fayetteville sign ordinance does not allow for signs that move.",
+			"lat": 36.0758315792405,
+			"lng": -94.1568212238485,
+			"address": "930 N College Ave Fayetteville, AR, 72701, USA",
+			"created_at": "2023-12-08T12:02:23-05:00",
+			"acknowledged_at": "2023-12-08T12:02:34-05:00",
+			"closed_at": "2023-12-08T15:22:52-05:00",
+			"url": "https://seeclickfix.com/api/v2/issues/15719412",
+			"media": {
+				"video_url": null,
+				"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTWZUSFFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c14187d5d66bf75420477f36fd4e7fdeb3ea671/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU1PREF3ZURZd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--09f1d8a44f20164c6fe72999dd865d9ba60da451/IMG_1581.jpeg",
+				"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTWZUSFFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c14187d5d66bf75420477f36fd4e7fdeb3ea671/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU5NVEF3ZURFd01GNEdPd1pVT2d4bmNtRjJhWFI1U1NJTFkyVnVkR1Z5QmpzR1ZEb0xaWGgwWlc1MFNTSU1NVEF3ZURFd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--987606a05f088ac27025b02d2b2476998a5ac02d/IMG_1581.jpeg",
+				"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTWZUSFFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c14187d5d66bf75420477f36fd4e7fdeb3ea671/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU5NVEF3ZURFd01GNEdPd1pVT2d4bmNtRjJhWFI1U1NJTFkyVnVkR1Z5QmpzR1ZEb0xaWGgwWlc1MFNTSU1NVEF3ZURFd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--987606a05f088ac27025b02d2b2476998a5ac02d/IMG_1581.jpeg"
+			}
+		},
+		{
+			"id": 15718411,
+			"status": "Acknowledged",
+			"summary": "Trail Lighting Issue",
+			"description": "Most of the lighting in the parking area on Old Wire at Gulley Park parking does not work.  Parking lot is very dark.  ",
+			"lat": 36.0971082599858,
+			"lng": -94.1350556304005,
+			"address": "2566 N Old Wire Rd Fayetteville, AR, 72703, USA",
+			"created_at": "2023-12-08T09:45:49-05:00",
+			"acknowledged_at": "2023-12-08T09:45:52-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15718411",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories_trans/no-image-af3faf07f478451d4ca455f92af96dd763f686e943607309ed059ef4fe13be21.png"
+			}
+		},
+		{
+			"id": 15715655,
+			"status": "Acknowledged",
+			"summary": "Traffic Signal/Sign Issue",
+			"description": "West bound Dickson at Arkansas LANE STRIPING ISSUE. \n\nThis was done at late summer prior to fall semester at UofA. \n\nImproper lane striping set up four near side swide accidents so far this fall as I travel each morning through this intersection.  As I proceeded straight, from the offset straight lane facing head-on East bound traffic, other vehicles thinking the now right turn lane is the straight lane, because it aligns to the straight traffic lane West of the intersection, almost side swiped my car four times this fall.\n\nWHY would you stripe this intersection to put West bound straight traffic HEAD ON to East bound Dickson Traffic???? That is illogical to all the traffic laws we learned to obtain our drivers license.\n\nAdditionally, if a Westbound car on Dickson stops to turn South on University it now blocks all WEST bound traffic.  ALL of this for ONE additional Parking Slip on the curb?!?\n\nPlease use logic in traffic flow and RESTRIPE this WEST bound traffic lanes to the prior configuration before you cause any more accidents due to poor lane configuration.\n\nPUT IT BACK LIKE IT WAS BECAUSE IT WORKED WELL.\n\n",
+			"lat": 36.0665200137139,
+			"lng": -94.1685599620308,
+			"address": "N Arkansas Ave & W Dickson St Fayetteville, Arkansas, 72701",
+			"created_at": "2023-12-07T14:49:42-05:00",
+			"acknowledged_at": "2023-12-08T10:30:55-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15715655",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories/blocked-67fb4f5525dfe42aded36872961e56ca80855a325eef3ccf1493419d9ba0c5ac.png"
+			}
+		},
+		{
+			"id": 15715578,
+			"status": "Closed",
+			"summary": "Street Maintenance Request",
+			"description": "this is a test please delete",
+			"lat": 36.0663405928773,
+			"lng": -94.1619024681189,
+			"address": "205 W Dickson St Fayetteville, AR, 72701, USA",
+			"created_at": "2023-12-07T14:39:01-05:00",
+			"acknowledged_at": "2023-12-07T14:39:03-05:00",
+			"closed_at": "2023-12-07T15:52:40-05:00",
+			"url": "https://seeclickfix.com/api/v2/issues/15715578",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories/test-5a571c340baf8519d6275935f3eead41b4dfddc9a484e98f1337abc99b70a7fe.png"
+			}
+		},
+		{
+			"id": 15713732,
+			"status": "Acknowledged",
+			"summary": "Street Maintenance Request",
+			"description": "",
+			"lat": 36.0955449937652,
+			"lng": -94.1991449818942,
+			"address": "W Quail Dr Fayetteville, Arkansas, 72704",
+			"created_at": "2023-12-07T10:54:15-05:00",
+			"acknowledged_at": "2023-12-07T10:54:18-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15713732",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories_trans/no-image-af3faf07f478451d4ca455f92af96dd763f686e943607309ed059ef4fe13be21.png"
+			}
+		},
+		{
+			"id": 15712369,
+			"status": "Closed",
+			"summary": "Traffic Signal/Sign Issue",
+			"description": "It appears that the traffic lights on eastbound lane of Weddington drive aren't functioning properly in the morning causing traffic to back up. ",
+			"lat": 36.078400816462,
+			"lng": -94.2020993935199,
+			"address": "Ar-112-Spur & Exit 64 Fayetteville, AR, 72701, USA",
+			"created_at": "2023-12-06T23:34:41-05:00",
+			"acknowledged_at": "2023-12-06T23:34:42-05:00",
+			"closed_at": "2023-12-07T16:00:57-05:00",
+			"url": "https://seeclickfix.com/api/v2/issues/15712369",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories/signs-3b1fbd7c0827d225d542f5d5261fecd44f62526a8087b0372f397a12d6069c0e.png"
+			}
+		},
+		{
+			"id": 15707307,
+			"status": "Closed",
+			"summary": "Trail Maintenance Request",
+			"description": "Dumping by railroad near single crossing bridge",
+			"lat": 36.07189881572,
+			"lng": -94.1674358177652,
+			"address": "Nw Arkansas Razorback Greenway Fayetteville, AR, 72701, USA",
+			"created_at": "2023-12-06T08:11:17-05:00",
+			"acknowledged_at": "2023-12-06T08:11:29-05:00",
+			"closed_at": "2023-12-06T15:21:14-05:00",
+			"url": "https://seeclickfix.com/api/v2/issues/15707307",
+			"media": {
+				"video_url": null,
+				"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRXFUSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eeb1196e23620d9d3156e01c5e2322a638757d11/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU1PREF3ZURZd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--09f1d8a44f20164c6fe72999dd865d9ba60da451/IMG_0065.jpeg",
+				"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRXFUSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eeb1196e23620d9d3156e01c5e2322a638757d11/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU5NVEF3ZURFd01GNEdPd1pVT2d4bmNtRjJhWFI1U1NJTFkyVnVkR1Z5QmpzR1ZEb0xaWGgwWlc1MFNTSU1NVEF3ZURFd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--987606a05f088ac27025b02d2b2476998a5ac02d/IMG_0065.jpeg",
+				"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRXFUSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eeb1196e23620d9d3156e01c5e2322a638757d11/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU5NVEF3ZURFd01GNEdPd1pVT2d4bmNtRjJhWFI1U1NJTFkyVnVkR1Z5QmpzR1ZEb0xaWGgwWlc1MFNTSU1NVEF3ZURFd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--987606a05f088ac27025b02d2b2476998a5ac02d/IMG_0065.jpeg"
+			}
+		},
+		{
+			"id": 15706609,
+			"status": "Acknowledged",
+			"summary": "Street Lighting Issue",
+			"description": "The light at Salem & Timberline is out.",
+			"lat": 36.0820643845671,
+			"lng": -94.206899870588,
+			"address": "1420 N Salem Rd Fayetteville AR 72704, United States",
+			"created_at": "2023-12-05T21:02:23-05:00",
+			"acknowledged_at": "2023-12-05T21:02:32-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15706609",
+			"media": {
+				"video_url": null,
+				"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTlJ0SEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--23d855651d7da537b889f64f20b6ada296a19e27/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/image.jpg",
+				"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTlJ0SEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--23d855651d7da537b889f64f20b6ada296a19e27/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg",
+				"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTlJ0SEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--23d855651d7da537b889f64f20b6ada296a19e27/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
+			}
+		},
+		{
+			"id": 15706580,
+			"status": "Closed",
+			"summary": "Street Maintenance Request",
+			"description": "Unsightly dirt/flood washout/debris/leaves in street  -also causing dangerous conditions to cyclists using it as part of trail system. Possibly resolved by a street sweep? ",
+			"lat": 36.108659587461,
+			"lng": -94.1327112724093,
+			"address": "2041-2217 E Farr Ln Fayetteville, AR, 72703, USA",
+			"created_at": "2023-12-05T20:42:28-05:00",
+			"acknowledged_at": "2023-12-05T20:42:29-05:00",
+			"closed_at": "2023-12-07T19:30:29-05:00",
+			"url": "https://seeclickfix.com/api/v2/issues/15706580",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories/flood-1183a6ff6511c3238360324859130825018c7b1f1def1e5dfeb94a1384519e37.png"
+			}
+		},
+		{
+			"id": 15706555,
+			"status": "Closed",
+			"summary": "Sidewalk Maintenance Request",
+			"description": "Big pieces of broken glass on the sidewalk just past the intersection, if I remember correctly.  It is across the street from some construction project.  There is a lot of glass there.",
+			"lat": 36.1055218585331,
+			"lng": -94.1475145991783,
+			"address": "676-746 E Appleby Rd Fayetteville, AR, 72703, USA",
+			"created_at": "2023-12-05T20:30:15-05:00",
+			"acknowledged_at": "2023-12-05T20:30:17-05:00",
+			"closed_at": "2023-12-08T08:00:33-05:00",
+			"url": "https://seeclickfix.com/api/v2/issues/15706555",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories/trash-253f6f37c76ecf513079ab225a5a2acb301dc27c869c749bc6c592b779207bd5.png"
+			}
+		},
+		{
+			"id": 15706368,
+			"status": "Closed",
+			"summary": "Traffic Signal/Sign Issue",
+			"description": "There are 3 area poles of traffic crossing buttons at the intersection of Popular St.and N.Gregg St.that are missing a majority of the silver push buttons. Only a wired short stem at each pole is left to press for a walker to use!\n\nNeeds attention ASAP.\n\nI was volunteering picking up litter today when I noticed this.\n\nSincerely,\nAvis Ruge\nLitter Volunteer\navisr@cox.net\n479-445-9564",
+			"lat": 36.0884053293967,
+			"lng": -94.1625192732244,
+			"address": "W Poplar St Fayetteville, AR, 72703, USA",
+			"created_at": "2023-12-05T19:31:14-05:00",
+			"acknowledged_at": "2023-12-05T19:31:16-05:00",
+			"closed_at": "2023-12-07T12:00:43-05:00",
+			"url": "https://seeclickfix.com/api/v2/issues/15706368",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null,
+				"representative_image_url": "https://seeclickfix.com/assets/categories/signs-3b1fbd7c0827d225d542f5d5261fecd44f62526a8087b0372f397a12d6069c0e.png"
+			}
+		},
+		{
+			"id": 15704999,
+			"status": "Acknowledged",
+			"summary": "Street Lighting Issue",
+			"description": "The light at the corner of Princeton & Dartmouth is out.",
+			"lat": 36.0838451869459,
+			"lng": -94.2083312872394,
+			"address": "1595 N Dartmouth Ave Fayetteville AR 72704, United States",
+			"created_at": "2023-12-05T15:32:12-05:00",
+			"acknowledged_at": "2023-12-05T15:32:19-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15704999",
+			"media": {
+				"video_url": null,
+				"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVZJSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e12566a886cc3eb9086ad744f2c93beca66de04a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/image.jpg",
+				"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVZJSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e12566a886cc3eb9086ad744f2c93beca66de04a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg",
+				"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVZJSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e12566a886cc3eb9086ad744f2c93beca66de04a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
+			}
+		},
+		{
+			"id": 15703039,
+			"status": "Acknowledged",
+			"summary": "Traffic Signal/Sign Issue",
+			"description": "Street name misspelled. Hughmount is all one word.",
+			"lat": 36.1015603691453,
+			"lng": -94.2258521439093,
+			"address": "4641 W Canyon Run Dr Fayetteville AR 72704, United States",
+			"created_at": "2023-12-05T11:19:22-05:00",
+			"acknowledged_at": "2023-12-05T11:19:31-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15703039",
+			"media": {
+				"video_url": null,
+				"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTkFmSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0a8df38ca1a24b92f34ee359f757d88292c84bdd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/image.jpg",
+				"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTkFmSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0a8df38ca1a24b92f34ee359f757d88292c84bdd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg",
+				"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTkFmSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0a8df38ca1a24b92f34ee359f757d88292c84bdd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
+			}
+		},
+		{
+			"id": 15703005,
+			"status": "Acknowledged",
+			"summary": "Traffic Signal/Sign Issue",
+			"description": "Street name on signage is misspelled. Houghmount is all one word.",
+			"lat": 36.1032294555542,
+			"lng": -94.2257767191695,
+			"address": "4600–4640 W Bittersweet Dr Fayetteville AR 72704, United States",
+			"created_at": "2023-12-05T11:15:18-05:00",
+			"acknowledged_at": "2023-12-05T11:15:27-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15703005",
+			"media": {
+				"video_url": null,
+				"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ3NmSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3473cd65e0eaf9f8200182b858c21edfa102a901/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/image.jpg",
+				"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ3NmSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3473cd65e0eaf9f8200182b858c21edfa102a901/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg",
+				"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ3NmSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3473cd65e0eaf9f8200182b858c21edfa102a901/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
+			}
+		},
+		{
+			"id": 15702984,
+			"status": "Acknowledged",
+			"summary": "Traffic Signal/Sign Issue",
+			"description": "This location is now within the City Limit and this county road sign should be removed.",
+			"lat": 36.1033509532327,
+			"lng": -94.2256630585475,
+			"address": "2700–2758 Cr-706 Fayetteville AR 72704, United States",
+			"created_at": "2023-12-05T11:12:52-05:00",
+			"acknowledged_at": "2023-12-05T11:13:01-05:00",
+			"closed_at": null,
+			"url": "https://seeclickfix.com/api/v2/issues/15702984",
+			"media": {
+				"video_url": null,
+				"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTndlSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--75fad49677e03d4c4a6988efe3d3187aa32e2c6e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/image.jpg",
+				"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTndlSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--75fad49677e03d4c4a6988efe3d3187aa32e2c6e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg",
+				"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTndlSEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--75fad49677e03d4c4a6988efe3d3187aa32e2c6e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
+			}
+		}
+	],
+	"metadata": {
+		"pagination": {
+			"entries": 315,
+			"page": 1,
+			"per_page": 20,
+			"pages": 16,
+			"next_page": 2,
+			"next_page_url": "https://seeclickfix.com/api/v2/issues?fields%5Bissue%5D=id%2Csummary%2Cdescription%2Cstatus%2Clat%2Clng%2Caddress%2Cmedia%2Ccreated_at%2Cacknowledged_at%2Cclosed_at&lat=36.06320000000005&lng=-94.15790999999996&page=2&status=open%2Cacknowledged%2Cclosed",
+			"previous_page": null,
+			"previous_page_url": null
+		}
+	},
+	"errors": {}
+}

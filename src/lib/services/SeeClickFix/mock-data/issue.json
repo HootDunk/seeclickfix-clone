@@ -1,0 +1,48 @@
+{
+	"id": 15477360,
+	"status": "Acknowledged",
+	"summary": "Sidewalk Maintenance Request",
+	"description": "Low branches obstructing sidewalk.",
+	"rating": 2,
+	"lat": 36.0713316425272,
+	"lng": -94.1564147621755,
+	"address": "114-186 E Davidson St Fayetteville, AR, 72701, USA",
+	"created_at": "2023-10-17T14:54:06-04:00",
+	"acknowledged_at": "2023-10-17T14:54:08-04:00",
+	"closed_at": null,
+	"reopened_at": null,
+	"updated_at": "2023-10-17T15:32:10-04:00",
+	"shortened_url": null,
+	"url": "https://seeclickfix.com/api/v2/issues/15477360",
+	"point": { "type": "Point", "coordinates": [-94.1564147621755, 36.0713316425272] },
+	"private_visibility": false,
+	"html_url": "https://seeclickfix.com/issues/15477360",
+	"request_type": {
+		"id": 41976,
+		"title": "INTERNAL - Code Compliance",
+		"organization": "City of Fayetteville - Development Services",
+		"url": "https://seeclickfix.com/api/v2/request_types/41976",
+		"related_issues_url": "https://seeclickfix.com/api/v2/issues?lat=36.0713316425272&lng=-94.1564147621755&request_types=41976&sort=distance"
+	},
+	"comment_url": "https://seeclickfix.com/api/v2/issues/15477360/comments",
+	"flag_url": "https://seeclickfix.com/api/v2/issues/15477360/flag",
+	"transitions": {},
+	"reporter": {
+		"id": 0,
+		"name": "An anonymous SeeClickFix user",
+		"role": "Registered User",
+		"avatar": {
+			"full": "https://seeclickfix.com/assets/no-avatar-100-4c3cf895b7ee80b7e97c54d1c7ee80ef9e8d176702efb9a7dcf02abb38ffa5b8.png",
+			"square_100x100": "https://seeclickfix.com/assets/no-avatar-100-4c3cf895b7ee80b7e97c54d1c7ee80ef9e8d176702efb9a7dcf02abb38ffa5b8.png"
+		},
+		"html_url": "https://seeclickfix.com/users/anonymous",
+		"witty_title": "",
+		"civic_points": 0
+	},
+	"media": {
+		"video_url": null,
+		"image_full": null,
+		"image_square_100x100": null,
+		"representative_image_url": "https://seeclickfix.com/assets/categories/tree-2814caa225694d6d4846ae7b48c6f0cd4802f36b986b59044b149e3e8f3fb525.png"
+	}
+}

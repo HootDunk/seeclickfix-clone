@@ -1,0 +1,145 @@
+{
+	"id": 15734886,
+	"status": "Acknowledged",
+	"summary": "Street Maintenance Request",
+	"description": "I reported this inoperable car more than a month ago and the police came out and tagged it. I was told that it would be towed by the city in a month if no one had moved it. South Willow is a difficult street and having this vehicle taking up room makes it even more difficult. Thank you!",
+	"rating": 2,
+	"lat": 36.059626843825,
+	"lng": -94.1547404750579,
+	"address": "200 Block Of S Willow Ave Fayetteville, Arkansas, 72701",
+	"created_at": "2023-12-12T12:29:32-05:00",
+	"acknowledged_at": "2023-12-12T12:29:47-05:00",
+	"closed_at": null,
+	"reopened_at": null,
+	"updated_at": "2023-12-12T14:51:03-05:00",
+	"shortened_url": null,
+	"comments_count": 2,
+	"actions": {
+		"vote_url": "https://seeclickfix.com/api/v2/issues/15734886/vote",
+		"follow_url": "https://seeclickfix.com/api/v2/issues/15734886/follow"
+	},
+	"url": "https://seeclickfix.com/api/v2/issues/15734886",
+	"point": {
+		"type": "Point",
+		"coordinates": [-94.1547404750579, 36.059626843825]
+	},
+	"private_visibility": false,
+	"html_url": "https://seeclickfix.com/issues/15734886",
+	"request_type": {
+		"id": 41976,
+		"title": "INTERNAL - Code Compliance",
+		"organization": "City of Fayetteville - Development Services",
+		"url": "https://seeclickfix.com/api/v2/request_types/41976",
+		"related_issues_url": "https://seeclickfix.com/api/v2/issues?lat=36.059626843825&lng=-94.1547404750579&request_types=41976&sort=distance"
+	},
+	"comment_url": "https://seeclickfix.com/api/v2/issues/15734886/comments",
+	"flag_url": "https://seeclickfix.com/api/v2/issues/15734886/flag",
+	"transitions": {},
+	"reporter": {
+		"id": 2245897,
+		"name": "Fayetteville, AR Neighbor",
+		"role": "Guest",
+		"avatar": {
+			"full": "https://seeclickfix.com/assets/no-avatar-100-4c3cf895b7ee80b7e97c54d1c7ee80ef9e8d176702efb9a7dcf02abb38ffa5b8.png",
+			"square_100x100": "https://seeclickfix.com/assets/no-avatar-100-4c3cf895b7ee80b7e97c54d1c7ee80ef9e8d176702efb9a7dcf02abb38ffa5b8.png"
+		},
+		"html_url": "https://seeclickfix.com/users/2245897",
+		"witty_title": "",
+		"civic_points": 0
+	},
+	"media": {
+		"video_url": null,
+		"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTWgxSHdFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e4b23d4f2b0aaf6510d651fca24ca2296cb81444/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU1PREF3ZURZd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--09f1d8a44f20164c6fe72999dd865d9ba60da451/E2758499-3D83-4C25-A773-D7B0F069698F.jpeg",
+		"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTWgxSHdFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e4b23d4f2b0aaf6510d651fca24ca2296cb81444/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU5NVEF3ZURFd01GNEdPd1pVT2d4bmNtRjJhWFI1U1NJTFkyVnVkR1Z5QmpzR1ZEb0xaWGgwWlc1MFNTSU1NVEF3ZURFd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--987606a05f088ac27025b02d2b2476998a5ac02d/E2758499-3D83-4C25-A773-D7B0F069698F.jpeg",
+		"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTWgxSHdFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e4b23d4f2b0aaf6510d651fca24ca2296cb81444/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU5NVEF3ZURFd01GNEdPd1pVT2d4bmNtRjJhWFI1U1NJTFkyVnVkR1Z5QmpzR1ZEb0xaWGgwWlc1MFNTSU1NVEF3ZURFd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--987606a05f088ac27025b02d2b2476998a5ac02d/E2758499-3D83-4C25-A773-D7B0F069698F.jpeg"
+	},
+	"crm_issue_url": null,
+	"organization_issue_url": null,
+	"integrations": [
+		{
+			"remote_id": "23-004432",
+			"status": "completed",
+			"title": "City of Fayetteville - Development Services"
+		}
+	],
+	"assignee": {
+		"id": 2379466,
+		"name": "Police - William Brown",
+		"role": "Verified Official",
+		"avatar": {
+			"full": "https://seeclickfix.com/assets/no-avatar-100-4c3cf895b7ee80b7e97c54d1c7ee80ef9e8d176702efb9a7dcf02abb38ffa5b8.png",
+			"square_100x100": "https://seeclickfix.com/assets/no-avatar-100-4c3cf895b7ee80b7e97c54d1c7ee80ef9e8d176702efb9a7dcf02abb38ffa5b8.png"
+		},
+		"html_url": "https://seeclickfix.com/users/2379466",
+		"witty_title": "",
+		"civic_points": 0
+	},
+	"questions": [
+		{
+			"question": "Type of problem:",
+			"answer": "Other"
+		}
+	],
+	"comments": [
+		{
+			"comment": "Your request to the City of Fayetteville has been received. A work request (#23-004432) has been forwarded to our team and they are looking into this issue. Thank you for bringing this matter to our attention.",
+			"created_at": "2023-12-12T12:29:47-05:00",
+			"updated_at": "2023-12-12T12:29:47-05:00",
+			"editable_until": "2023-12-19T12:29:47-05:00",
+			"last_edited_at": null,
+			"commenter": {
+				"id": 2245898,
+				"name": "Fayetteville, AR",
+				"role": "Verified Official",
+				"avatar": {
+					"full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1pnVUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a4d7085b52f1fa0bf113e222abb531a7889bb7c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a97fc2b9573eb2bdd92c5c7b4116262444f87298/wrenchbot.png",
+					"square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1pnVUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a4d7085b52f1fa0bf113e222abb531a7889bb7c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--f224a136636cd9e5a5bc93e8d3fce2ff29359306/wrenchbot.png"
+				},
+				"html_url": "https://seeclickfix.com/users/2245898",
+				"witty_title": "",
+				"civic_points": 0
+			},
+			"issue_url": "https://seeclickfix.com/api/v2/issues/15734886",
+			"flag_url": "https://seeclickfix.com/api/v2/comments/46551566/flag",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null
+			}
+		},
+		{
+			"comment": "Display Name Blocked (2874339) assigned this issue to Police - William Brown",
+			"created_at": "2023-12-12T14:51:03-05:00",
+			"updated_at": "2023-12-12T14:51:03-05:00",
+			"editable_until": null,
+			"last_edited_at": null,
+			"commenter": {
+				"id": 2874339,
+				"name": "Display Name Blocked (2874339)",
+				"role": "Verified Official",
+				"avatar": {
+					"full": "https://seeclickfix.com/assets/no-avatar-100-4c3cf895b7ee80b7e97c54d1c7ee80ef9e8d176702efb9a7dcf02abb38ffa5b8.png",
+					"square_100x100": "https://seeclickfix.com/assets/no-avatar-100-4c3cf895b7ee80b7e97c54d1c7ee80ef9e8d176702efb9a7dcf02abb38ffa5b8.png"
+				},
+				"html_url": "https://seeclickfix.com/users/2874339",
+				"witty_title": "",
+				"civic_points": 0
+			},
+			"issue_url": "https://seeclickfix.com/api/v2/issues/15734886",
+			"flag_url": "https://seeclickfix.com/api/v2/comments/46555020/flag",
+			"media": {
+				"video_url": null,
+				"image_full": null,
+				"image_square_100x100": null
+			}
+		}
+	],
+	"votes": [],
+	"vote_count": 0,
+	"current_user_relationship": {
+		"following": false,
+		"voted": false,
+		"reporter": false,
+		"assignee": false
+	}
+}
