@@ -35,7 +35,7 @@
 				min_lng: -94.17250121704095,
 				max_lng: -94.14331878295897
 			},
-			statuses: ['acknowledged', 'closed', 'open'],
+			statuses: ['Acknowledged', 'Closed', 'Open'],
 			page
 		});
 		issuesResponse = asAsyncSuccess(res);
