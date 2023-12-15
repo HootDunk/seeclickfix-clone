@@ -68,10 +68,10 @@ export const RequestTypeResponseSchema = RequestTypeSchema.extend({
 
 export type RequestTypeResponse = z.infer<typeof RequestTypeResponseSchema>;
 
-export const OpenIssueStatusSchema = z.literal('open');
-export const ClosedIssueStatusSchema = z.literal('closed');
-export const AcknowledgedIssueStatusSchema = z.literal('acknowledged');
-export const ArchivedIssueStatusSchema = z.literal('acknowledged');
+export const OpenIssueStatusSchema = z.literal('Open');
+export const ClosedIssueStatusSchema = z.literal('Closed');
+export const AcknowledgedIssueStatusSchema = z.literal('Acknowledged');
+export const ArchivedIssueStatusSchema = z.literal('Archived');
 export const IssueStatusSchema = z.union([
 	OpenIssueStatusSchema,
 	ClosedIssueStatusSchema,
@@ -115,7 +115,7 @@ const ProfileSchema = z.object({
 
 const IssueSchema = z.object({
 	id: z.number(),
-	status: z.string(),
+	status: IssueStatusSchema,
 	summary: z.string(),
 	description: z.string(),
 	rating: z.number(),
@@ -310,7 +310,6 @@ export class MockSeeClickFixService implements SeeClickFixService {
 	async getRequestType(hasId: HasId<number>): Promise<RequestTypeResponse> {
 		return RequestTypeResponseSchema.parse(requestType);
 	}
-	// eslint-disable-next-line @typescript-eslint/no-unused-vars
 	async getIssues(params: GetIssuesParams): Promise<IssuesResponse> {
 		// todo IRL implement a cache and stringify the params as the key, have cache expire quickly (2mins)
 		await this.wait(1);
