@@ -3,7 +3,6 @@
 	import IssueCard from './IssueCard.svelte';
 
 	export let issuesResponse: IssuesResponse;
-	// todo use grid for all items in content div
 </script>
 
 <ul class="mx-4">

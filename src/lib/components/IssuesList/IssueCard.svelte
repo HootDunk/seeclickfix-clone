@@ -5,6 +5,8 @@
 	import CreatedAt from '../CreatedAt.svelte';
 
 	export let issue: IssuesResponse['issues'][0];
+
+	// todo use grid for all items in content div
 </script>
 
 <Card>
