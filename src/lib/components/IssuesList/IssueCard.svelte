@@ -19,7 +19,7 @@
 			/>
 		{/if}
 		<div class="issues-list-button-override space-y-1 p-4">
-			<Button class="p-0" type="link" href="https://google.com">
+			<Button class="p-0" type="link" href="map/{issue.id}">
 				<h2>
 					{issue.summary}
 				</h2>
