@@ -13,6 +13,7 @@
 		type PaginationDispatcherType
 	} from '$lib/components/IssuesList/Pagination.svelte';
 	import { Progress } from 'stwui';
+	import GoogleMap from '$lib/components/GoogleMap.svelte';
 	const seeClickFixService = new MockSeeClickFixService();
 
 	let issuesResponse: AsyncResult<IssuesResponse> = ASYNC_IN_PROGRESS;
@@ -64,6 +65,6 @@
 	</svelte:fragment>
 
 	<svelte:fragment slot="main-content">
-		<h1>main-content</h1>
+		<GoogleMap />
 	</svelte:fragment>
 </LangingPageLayout>

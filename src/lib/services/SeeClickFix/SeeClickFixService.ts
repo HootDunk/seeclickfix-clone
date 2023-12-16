@@ -288,7 +288,7 @@ export const ASYNC_IN_PROGRESS: AsyncInProgress = { type: 'inProgress' };
 export interface SeeClickFixService {
 	getRequestTypes(params: { lat: number; lng: number }): Promise<RequestTypesResponse>;
 	getRequestType(params: HasId<number>): Promise<RequestTypeResponse>;
-	// todo IRL implement a cache and stringify the params as the key, have cache expire quickly (2mins)
+	// todo IRL implement a cache and stringify the params as the key, have cache expire quickly (2mins) (but clear cache on:new-issue-created)
 	getIssues(params: GetIssuesParams): Promise<IssuesResponse>;
 	getIssue(params: HasId<number>): Promise<Issue>;
 	getIssueWithDetails(params: HasId<number>): Promise<IssueWithDetails>;

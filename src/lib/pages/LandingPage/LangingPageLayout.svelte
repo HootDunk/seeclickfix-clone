@@ -10,9 +10,15 @@
 	.layout-container {
 		display: flex;
 		grid-template-columns: 400px auto;
+		height: 100%;
+	}
+	.main-content {
+		flex-grow: 1;
+		max-height: calc(100vh - var(--header-height));
 	}
 
 	.side-content {
+		width: 400px;
 		display: none;
 	}
 
@@ -23,7 +29,6 @@
 
 	@media (min-width: 64rem) {
 		.side-content {
-			width: 400px;
 			display: unset;
 		}
 	}
