@@ -10,7 +10,7 @@
 
 <script lang="ts">
 	import type { Pagination } from '$lib/services/SeeClickFix/SeeClickFixService';
-	import { Button, Progress } from 'stwui';
+	import { Button } from 'stwui';
 	import { chevronRightSvg } from '../Svg/outline/ChevronRight.svelte';
 	import { chevronLeftSvg } from '../Svg/outline/ChevronLeft.svelte';
 	import { createEventDispatcher } from 'svelte';
