@@ -1,80 +1,72 @@
 {
-	"id": 15706609,
+	"id": 15719421,
 	"status": "Closed",
-	"summary": "Street Lighting Issue",
-	"description": "The light at Salem & Timberline is out.",
+	"summary": "Traffic Signal/Sign Issue",
+	"description": "Manual override left unlocked and controller hanging out of street light controller.",
 	"rating": 2,
-	"lat": 36.0820643845671,
-	"lng": -94.206899870588,
-	"address": "1420 N Salem Rd Fayetteville AR 72704, United States",
-	"created_at": "2023-12-05T21:02:23-05:00",
-	"acknowledged_at": "2023-12-05T21:02:32-05:00",
-	"closed_at": "2023-12-12T10:41:36-05:00",
+	"lat": 36.0773575399408,
+	"lng": -94.1756116972251,
+	"address": "1025 N Garland Ave Fayetteville AR 72701, United States",
+	"created_at": "2023-12-08T12:03:21-05:00",
+	"acknowledged_at": "2023-12-08T12:03:37-05:00",
+	"closed_at": "2023-12-11T12:02:40-05:00",
 	"reopened_at": null,
-	"updated_at": "2023-12-12T10:41:37-05:00",
+	"updated_at": "2023-12-11T12:02:41-05:00",
 	"shortened_url": null,
 	"comments_count": 3,
 	"actions": {
-		"vote_url": "https://seeclickfix.com/api/v2/issues/15706609/vote",
-		"follow_url": "https://seeclickfix.com/api/v2/issues/15706609/follow"
+		"vote_url": "https://seeclickfix.com/api/v2/issues/15719421/vote",
+		"follow_url": "https://seeclickfix.com/api/v2/issues/15719421/follow"
 	},
-	"url": "https://seeclickfix.com/api/v2/issues/15706609",
-	"point": {
-		"type": "Point",
-		"coordinates": [-94.206899870588, 36.0820643845671]
-	},
+	"url": "https://seeclickfix.com/api/v2/issues/15719421",
+	"point": { "type": "Point", "coordinates": [-94.1756116972251, 36.0773575399408] },
 	"private_visibility": false,
-	"html_url": "https://seeclickfix.com/issues/15706609",
+	"html_url": "https://seeclickfix.com/issues/15719421",
 	"request_type": {
-		"id": 36734,
-		"title": "Street Lighting Issue",
+		"id": 36737,
+		"title": "Traffic Signal/Sign Issue",
 		"organization": "City of Fayetteville - Public Works",
-		"url": "https://seeclickfix.com/api/v2/request_types/36734",
-		"related_issues_url": "https://seeclickfix.com/api/v2/issues?lat=36.0820643845671&lng=-94.206899870588&request_types=36734&sort=distance"
+		"url": "https://seeclickfix.com/api/v2/request_types/36737",
+		"related_issues_url": "https://seeclickfix.com/api/v2/issues?lat=36.0773575399408&lng=-94.1756116972251&request_types=36737&sort=distance"
 	},
-	"comment_url": "https://seeclickfix.com/api/v2/issues/15706609/comments",
-	"flag_url": "https://seeclickfix.com/api/v2/issues/15706609/flag",
+	"comment_url": "https://seeclickfix.com/api/v2/issues/15719421/comments",
+	"flag_url": "https://seeclickfix.com/api/v2/issues/15719421/flag",
 	"transitions": {},
 	"reporter": {
-		"id": 2245897,
-		"name": "Fayetteville, AR Neighbor",
-		"role": "Guest",
+		"id": 0,
+		"name": "An anonymous SeeClickFix user",
+		"role": "Registered User",
 		"avatar": {
 			"full": "https://seeclickfix.com/assets/no-avatar-100-4c3cf895b7ee80b7e97c54d1c7ee80ef9e8d176702efb9a7dcf02abb38ffa5b8.png",
 			"square_100x100": "https://seeclickfix.com/assets/no-avatar-100-4c3cf895b7ee80b7e97c54d1c7ee80ef9e8d176702efb9a7dcf02abb38ffa5b8.png"
 		},
-		"html_url": "https://seeclickfix.com/users/2245897",
+		"html_url": "https://seeclickfix.com/users/anonymous",
 		"witty_title": "",
 		"civic_points": 0
 	},
 	"media": {
 		"video_url": null,
-		"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTlJ0SEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--23d855651d7da537b889f64f20b6ada296a19e27/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/image.jpg",
-		"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTlJ0SEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--23d855651d7da537b889f64f20b6ada296a19e27/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg",
-		"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTlJ0SEFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--23d855651d7da537b889f64f20b6ada296a19e27/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
+		"image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT2ZUSFFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--94de4c7e08ac20049f4cc3a924c1d37c31361c2f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/image.jpg",
+		"image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT2ZUSFFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--94de4c7e08ac20049f4cc3a924c1d37c31361c2f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg",
+		"representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT2ZUSFFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--94de4c7e08ac20049f4cc3a924c1d37c31361c2f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
 	},
 	"crm_issue_url": null,
 	"organization_issue_url": null,
 	"integrations": [
 		{
-			"remote_id": "23-004375",
+			"remote_id": "23-004404",
 			"status": "completed",
 			"title": "City of Fayetteville - Public Works"
 		}
 	],
 	"assignee": null,
-	"questions": [
-		{
-			"question": "Pole Number:\r\n",
-			"answer": "OECC 145095"
-		}
-	],
+	"questions": null,
 	"comments": [
 		{
-			"comment": "Your request to the City of Fayetteville has been received. A work request (#23-004375) has been forwarded to our team and they are looking into this issue. Thank you for bringing this matter to our attention.",
-			"created_at": "2023-12-05T21:02:31-05:00",
-			"updated_at": "2023-12-05T21:02:31-05:00",
-			"editable_until": "2023-12-12T21:02:31-05:00",
+			"comment": "Your request to the City of Fayetteville has been received. A work request (#23-004404) has been forwarded to our team and they are looking into this issue. Thank you for bringing this matter to our attention.",
+			"created_at": "2023-12-08T12:03:36-05:00",
+			"updated_at": "2023-12-08T12:03:36-05:00",
+			"editable_until": "2023-12-15T12:03:36-05:00",
 			"last_edited_at": null,
 			"commenter": {
 				"id": 2245898,
@@ -88,18 +80,14 @@
 				"witty_title": "",
 				"civic_points": 0
 			},
-			"issue_url": "https://seeclickfix.com/api/v2/issues/15706609",
-			"flag_url": "https://seeclickfix.com/api/v2/comments/46458532/flag",
-			"media": {
-				"video_url": null,
-				"image_full": null,
-				"image_square_100x100": null
-			}
+			"issue_url": "https://seeclickfix.com/api/v2/issues/15719421",
+			"flag_url": "https://seeclickfix.com/api/v2/comments/46503009/flag",
+			"media": { "video_url": null, "image_full": null, "image_square_100x100": null }
 		},
 		{
-			"comment": "Thank you for contacting the City of Fayetteville Transportation Department. The street lights in this area are maintained by OZARKS ELECTRIC. We will be happy to put in a request on your behalf if you have included a pole number as well as an address for the location of the street light. In the future, please contact OZARKS ELECTRIC to report a light outage by going to their website or by contacting them at 1-800-521-6144.",
-			"created_at": "2023-12-06T10:01:08-05:00",
-			"updated_at": "2023-12-06T10:01:08-05:00",
+			"comment": "Thank you for reporting this issue.  A supervisor has been notified and will handle this issue as soon as possible.  Please contact Fayetteville Transportation at 479-575-8228 if you have further questions or comments.",
+			"created_at": "2023-12-08T13:20:59-05:00",
+			"updated_at": "2023-12-08T13:20:59-05:00",
 			"editable_until": null,
 			"last_edited_at": null,
 			"commenter": {
@@ -114,19 +102,15 @@
 				"witty_title": "",
 				"civic_points": 0
 			},
-			"issue_url": "https://seeclickfix.com/api/v2/issues/15706609",
-			"flag_url": "https://seeclickfix.com/api/v2/comments/46464022/flag",
-			"media": {
-				"video_url": null,
-				"image_full": null,
-				"image_square_100x100": null
-			}
+			"issue_url": "https://seeclickfix.com/api/v2/issues/15719421",
+			"flag_url": "https://seeclickfix.com/api/v2/comments/46504614/flag",
+			"media": { "video_url": null, "image_full": null, "image_square_100x100": null }
 		},
 		{
-			"comment": "This service request (#23-004375) has been closed.",
-			"created_at": "2023-12-12T10:41:36-05:00",
-			"updated_at": "2023-12-12T10:41:36-05:00",
-			"editable_until": "2023-12-19T10:41:36-05:00",
+			"comment": "This service request (#23-004404) has been closed.",
+			"created_at": "2023-12-11T12:02:40-05:00",
+			"updated_at": "2023-12-11T12:02:40-05:00",
+			"editable_until": "2023-12-18T12:02:40-05:00",
 			"last_edited_at": null,
 			"commenter": {
 				"id": 2245898,
@@ -140,13 +124,9 @@
 				"witty_title": "",
 				"civic_points": 0
 			},
-			"issue_url": "https://seeclickfix.com/api/v2/issues/15706609",
-			"flag_url": "https://seeclickfix.com/api/v2/comments/46548513/flag",
-			"media": {
-				"video_url": null,
-				"image_full": null,
-				"image_square_100x100": null
-			}
+			"issue_url": "https://seeclickfix.com/api/v2/issues/15719421",
+			"flag_url": "https://seeclickfix.com/api/v2/comments/46529699/flag",
+			"media": { "video_url": null, "image_full": null, "image_square_100x100": null }
 		}
 	],
 	"votes": [],
