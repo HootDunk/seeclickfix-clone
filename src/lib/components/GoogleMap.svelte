@@ -13,24 +13,30 @@
 
 	// likely will want to create a map of Map<IssueId, Marker>  so that we can update individual markers on click
 	// can the 'selected' marker and have it hidden, on click hide the issue marker and update selected marker position
+
+	// also should later refactor this to simply dispatch events so that it is up to the user what happens on click
 	function createIssueMarker(issue: IssuesResponse['issues'][0], map: google.maps.Map) {
-		return new google.maps.Marker({
+		const marker = new google.maps.Marker({
 			position: {
 				lat: issue.lat,
 				lng: issue.lng
 			},
 			map,
-			title: `Issue: ${issue.summary}`,
+			title: issue.summary,
 			clickable: true,
 			icon: {
 				url: statusToPngMap[issue.status],
 				scaledSize: new google.maps.Size(22, 22)
 			}
 		});
+		marker.addListener('click', () => goto(`/E79oLnFioicWGNJ1z93qEujE/issues/map/${issue.id}`));
+
+		return marker;
 	}
 
 	function createIssueMarkers(issues: Array<IssuesResponse['issues'][0]>, map?: google.maps.Map) {
 		if (!map) return;
+		// todo clear any existing markers
 		// todo use reduce function instead of map and create issueIdIssueMarkerMap
 		return issues.map((issue) => createIssueMarker(issue, map));
 	}
@@ -40,8 +46,8 @@
 	import type { AsyncResult, IssuesResponse } from '$lib/services/SeeClickFix/SeeClickFixService';
 	import { Loader } from '@googlemaps/js-api-loader';
 	import { onMount } from 'svelte';
+	import { goto } from '$app/navigation';
 
-	// whenever this value changes, rerender the issues on the map
 	export let issuesResponse: AsyncResult<IssuesResponse>;
 
 	let mapElement: HTMLDivElement;
