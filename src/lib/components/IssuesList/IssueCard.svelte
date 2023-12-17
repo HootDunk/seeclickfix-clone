@@ -5,8 +5,6 @@
 	import CreatedAt from '../CreatedAt.svelte';
 
 	export let issue: IssuesResponse['issues'][0];
-
-	// todo use grid for all items in content div
 </script>
 
 <Card>
@@ -19,7 +17,8 @@
 			/>
 		{/if}
 		<div class="issues-list-button-override space-y-1 p-4">
-			<Button class="p-0" type="link" href="map/{issue.id}">
+			<!-- todo properly generate the href -->
+			<Button class="p-0" type="link" href="/E79oLnFioicWGNJ1z93qEujE/issues/map/{issue.id}">
 				<h2>
 					{issue.summary}
 				</h2>

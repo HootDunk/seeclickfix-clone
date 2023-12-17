@@ -160,7 +160,7 @@ const ActionSchema = z.object({
 });
 
 const QuestionAnswerSchema = z.object({
-	question: z.string(), // this is the question id (primary_key)
+	question: z.string(),
 	answer: z.string()
 });
 
@@ -174,7 +174,7 @@ const CommentSchema = z.object({
 	comment: z.string(),
 	created_at: z.string(),
 	updated_at: z.string(),
-	editable_until: z.string(),
+	editable_until: z.string().nullish(),
 	last_edited_at: z.string().nullish(),
 	commenter: ProfileSchema,
 	issue_url: z.string(),

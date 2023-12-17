@@ -6,7 +6,7 @@
 
 <div class="wrapper">
 	<header>
-		<h1>Fayetville, AR</h1>
+		<h1>Fayetteville, AR</h1>
 		<div class="controls">
 			<Funnel />
 			<Bars3 />

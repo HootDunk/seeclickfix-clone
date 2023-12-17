@@ -12,14 +12,14 @@
 	} from '$lib/services/SeeClickFix/SeeClickFixService';
 	onMount(() => console.log('layout mount'));
 
-	// when I click on an issue, the issue details are shown on the left side.
-	// when I click back, then the issue details list is shown
-
 	// can access the lat and lng from the route params and use them to load data from within the different +page.svelte components
 
 	// todo mobile view map overlay (click single issue on map => shows card over map.  if issue is selected in desktop and mobile breakpoint is hit, then it shows card overlay)
+	// may need to have selectedIssue be a part of the store. or that value is resolved from url..
+	// or could have it as a store and set the value from inside onMount inside that components page.
+	// lets work on the "New Request" button to get an idea of adding elements over the map
 
-	// need to load the data here so that we can create a context/store for access from both the side-bar and the main-content
+	// need to load the data here (edit because of the filter in the header, it will need to be accessible there) so that we can create a context/store for access from both the side-bar and the main-content
 
 	const seeClickFixService: SeeClickFixService = new MockSeeClickFixService();
 	let issuesResponse: AsyncResult<IssuesResponse> = ASYNC_IN_PROGRESS;
@@ -47,5 +47,35 @@
 
 <LandingPageLayout>
 	<slot slot="side-bar" />
-	<GoogleMap {issuesResponse} slot="main-content" />
+	<div class="map-wrapper" slot="main-content">
+		<GoogleMap {issuesResponse} />
+		<!-- <div class="overlay">
+			<h3>hello world</h3>
+		</div>
+		<div class="absolute inset-x-10 bottom-10">
+			<h3>hello tailwind</h3>
+		</div> -->
+	</div>
 </LandingPageLayout>
+
+<style>
+	.map-wrapper {
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+	.overlay {
+		position: absolute;
+		z-index: 1000;
+
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+
+		/* width: 100px;
+		left: 0;
+		right: 0;
+		margin-left: auto;
+		margin-right: auto; */
+	}
+</style>

@@ -12,19 +12,11 @@
 		type PaginationDispatcherType
 	} from '$lib/components/IssuesList/Pagination.svelte';
 	import { Progress } from 'stwui';
-	import GoogleMap from '$lib/components/GoogleMap.svelte';
 	import IssuesList from '$lib/components/IssuesList/IssuesList.svelte';
 	const seeClickFixService = new MockSeeClickFixService();
 
 	let issuesResponse: AsyncResult<IssuesResponse> = ASYNC_IN_PROGRESS;
 	let showLocalLoader = false;
-	// todo use await block instead.
-	// edit, don't do that, create a type for these situations type thing = T | error = unknown | "loading"
-	// or make sure that we re-throw our error in the service so that it atleast has some knowable form
-	// definitely look online for this type
-	// https://codewithstyle.info/typescript-async-result/#:~:text=AsyncResult%20is%20a%20simple%20type,fetch%20call%20in%20our%20case).
-	// AsyncResult
-	// go with the linked article as it even mentions React Query
 	onMount(loadIssues);
 
 	async function loadIssues(page: number = 1) {
