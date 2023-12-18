@@ -41,7 +41,7 @@
 
 	// map can dispatch
 
-	// entire app can useSeeClickFixService
+	// entire app can useSeeClickFixService (don't pass in the sdk unless you use the AsyncResult type)
 	// inside if here we will likely create an issuesContext.  for now lets just pass the data into the map directly and work on the issues display.  that may have some implications on how we design our context/store
 </script>
 
