@@ -1,5 +1,4 @@
 <script lang="ts">
-	import '../../app.pcss';
 	import Funnel from '$lib/components/Svg/outline/Funnel.svelte';
 	import Bars3 from '$lib/components/Svg/Bars3.svelte';
 </script>
