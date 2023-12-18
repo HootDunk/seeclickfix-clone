@@ -55,6 +55,9 @@
 			};
 			const { Map } = (await google.maps.importLibrary('maps')) as google.maps.MapsLibrary;
 			const map = new Map(mapElement, completeMapOpts);
+
+			// todo create MapContext here and then all children can use it.
+			//  that way we can have a GoogleMapMarker svelte component which takes google.mapsMarkerOpts props (will need to figure out where to import the types from)
 			dispatch('ready', map);
 		});
 	}

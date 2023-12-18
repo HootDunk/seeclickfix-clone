@@ -250,6 +250,7 @@ export const IssuesResponseSchema = z.object({
 	metadata: HasPaginationSchema
 });
 export type IssuesResponse = z.infer<typeof IssuesResponseSchema>;
+export type IssuesResponseIssueDTO = IssuesResponse['issues'][0];
 
 // https://codewithstyle.info/typescript-async-result/#:~:text=AsyncResult%20is%20a%20simple%20type,fetch%20call%20in%20our%20case).
 export type AsyncResult<TResult, TError = unknown> =
