@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import LandingPageLayout from '../../../../lib/pages/LandingPage/LangingPageLayout.svelte';
-	import GoogleMap from '$lib/components/GoogleMap.svelte';
+	import GoogleMap from '$lib/components/IssuesMap.svelte';
 	import {
 		MockSeeClickFixService,
 		asAsyncSuccess,
@@ -10,6 +10,7 @@
 		type AsyncResult,
 		type IssuesResponse
 	} from '$lib/services/SeeClickFix/SeeClickFixService';
+	import IssuesMap from '$lib/components/IssuesMap.svelte';
 	onMount(() => console.log('layout mount'));
 
 	// can access the lat and lng from the route params and use them to load data from within the different +page.svelte components
@@ -48,7 +49,7 @@
 <LandingPageLayout>
 	<slot slot="side-bar" />
 	<div class="map-wrapper" slot="main-content">
-		<GoogleMap {issuesResponse} />
+		<IssuesMap {issuesResponse} />
 		<!-- <div class="overlay">
 			<h3>hello world</h3>
 		</div>

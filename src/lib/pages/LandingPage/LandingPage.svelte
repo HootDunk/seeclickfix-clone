@@ -13,7 +13,7 @@
 		type PaginationDispatcherType
 	} from '$lib/components/IssuesList/Pagination.svelte';
 	import { Progress } from 'stwui';
-	import GoogleMap from '$lib/components/GoogleMap.svelte';
+	import GoogleMap from '$lib/components/IssuesMap.svelte';
 	const seeClickFixService = new MockSeeClickFixService();
 
 	let issuesResponse: AsyncResult<IssuesResponse> = ASYNC_IN_PROGRESS;
