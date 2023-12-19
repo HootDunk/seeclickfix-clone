@@ -26,5 +26,4 @@
 
 {#if issueWithDetailsResponse.type === 'success'}
 	<IssueDetails issue={issueWithDetailsResponse.value} />
-	<!-- content here -->
 {/if}

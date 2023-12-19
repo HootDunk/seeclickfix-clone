@@ -25,6 +25,9 @@
 			version: 'weekly'
 		});
 
+		// todo refactor
+		// https://developers.google.com/maps/documentation/javascript/libraries
+		// add key to script and use below method
 		// google.maps.importLibrary("maps")
 		loader.load().then(async () => {
 			const styles = [

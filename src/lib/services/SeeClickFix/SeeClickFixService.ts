@@ -252,6 +252,8 @@ export const IssuesResponseSchema = z.object({
 export type IssuesResponse = z.infer<typeof IssuesResponseSchema>;
 export type IssuesResponseIssueDTO = IssuesResponse['issues'][0];
 
+export type Maybe<T> = T | undefined | null;
+
 // https://codewithstyle.info/typescript-async-result/#:~:text=AsyncResult%20is%20a%20simple%20type,fetch%20call%20in%20our%20case).
 export type AsyncResult<TResult, TError = unknown> =
 	| AsyncInProgress
@@ -284,8 +286,6 @@ export const asAsyncFailure = <TError>(error: TError): AsyncFailure<TError> => (
 
 export const ASYNC_IN_PROGRESS: AsyncInProgress = { type: 'inProgress' };
 
-// on the fence with whether it is better to use the AsyncResult type here or convert within svelte components
-// leaning towards doing the conversion in the components bc it really only exists for display purposes.
 export interface SeeClickFixService {
 	getRequestTypes(params: { lat: number; lng: number }): Promise<RequestTypesResponse>;
 	getRequestType(params: HasId<number>): Promise<RequestTypeResponse>;
@@ -313,7 +313,7 @@ export class MockSeeClickFixService implements SeeClickFixService {
 	}
 	async getIssues(params: GetIssuesParams): Promise<IssuesResponse> {
 		// todo IRL implement a cache and stringify the params as the key, have cache expire quickly (2mins)
-		await this.wait(1);
+		// await this.wait(1);
 		const issuesRes = IssuesResponseSchema.parse(issues);
 		issuesRes.metadata.pagination.page = params.page;
 		issuesRes.metadata.pagination.next_page = params.page + 1;

@@ -12,7 +12,7 @@
 	export let status: Issue['status'];
 </script>
 
-<span style="--status-color: {statusToColorMap[status]};" class={status.toLowerCase()} />
+<span style="--status-color: {statusToColorMap[status]};" />
 
 <style>
 	span {
