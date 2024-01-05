@@ -22,7 +22,7 @@
 	function initMap(props: Props) {
 		const loader = new Loader({
 			apiKey: 'AIzaSyDo-j3odI6X6jwwpwA1JH3xzxc-PGtHo74',
-			version: 'weekly'
+			version: 'quarterly'
 		});
 
 		// todo refactor
