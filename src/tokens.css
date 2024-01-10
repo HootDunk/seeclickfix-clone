@@ -1,3 +1,5 @@
 :root {
+    /* set this values on a per jurisdiction basis */
     --primary: 200 83% 53%;
+    /* todo add other css vars */
 }
