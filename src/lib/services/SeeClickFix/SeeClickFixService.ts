@@ -11,14 +11,17 @@ export const SelectQuestionTypeSchema = z.literal('select');
 export const TextareaQuestionTypeSchema = z.literal('textarea');
 export const TextQuestionTypeSchema = z.literal('text');
 export const FileQuestionTypeSchema = z.literal('file');
+export const NoteQuestionTypeSchema = z.literal('note'); // read only note to communicate info to user
 export const QuestionTypeSchema = z.union([
 	SelectQuestionTypeSchema,
 	TextareaQuestionTypeSchema,
 	TextQuestionTypeSchema,
-	FileQuestionTypeSchema
+	FileQuestionTypeSchema,
+	NoteQuestionTypeSchema
 ]);
 
-export const QuestionSchema = z.object({
+// notice there is no order, ordering is likely done on the backend
+export const BaseQuestionSchema = z.object({
 	primary_key: z.string(),
 	question: z.string(),
 	question_type: QuestionTypeSchema,
@@ -32,7 +35,7 @@ export const SelectOptionSchema = z.object({
 	name: z.string()
 });
 
-export const SelectQuestionSchema = QuestionSchema.extend({
+export const SelectQuestionSchema = BaseQuestionSchema.extend({
 	question_type: SelectQuestionTypeSchema,
 	select_values: SelectOptionSchema
 });
@@ -62,8 +65,11 @@ type HasId<T> = {
 	id: T;
 };
 
+// todo add the other question types
+export const QuestionSchema = z.union([BaseQuestionSchema, SelectQuestionSchema]);
+
 export const RequestTypeResponseSchema = RequestTypeSchema.extend({
-	questions: z.array(QuestionSchema) // todo union of all question types
+	questions: z.array(QuestionSchema)
 });
 
 export type RequestTypeResponse = z.infer<typeof RequestTypeResponseSchema>;
@@ -106,7 +112,7 @@ const AvatarSchema = z.object({
 const ProfileSchema = z.object({
 	id: z.number(),
 	name: z.string(),
-	role: z.string(), // todo likely an enum/string union list them as you find them here: "Verified Official"
+	role: z.string(), // todo likely an enum/string union list them as you find them here: "Verified Official", "Registered User".  Seems like this is moreso a value for the UI than something used for security but not sure.
 	avatar: AvatarSchema,
 	html_url: z.string(),
 	witty_title: z.string(),
