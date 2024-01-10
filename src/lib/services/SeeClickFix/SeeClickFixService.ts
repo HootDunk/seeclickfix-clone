@@ -301,12 +301,23 @@ export interface SeeClickFixService {
 	getIssueWithDetails(params: HasId<number>): Promise<IssueWithDetails>;
 }
 
+function shuffleArray<T>(array: Array<T>) {
+	const shuffledArray = [...array];
+
+	for (let i = shuffledArray.length - 1; i > 0; i--) {
+		const j = Math.floor(Math.random() * (i + 1));
+		[shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]];
+	}
+
+	return shuffledArray;
+}
+
 export class MockSeeClickFixService implements SeeClickFixService {
-	async wait(seconds: number) {
+	async wait(ms: number) {
 		return new Promise((resolve) => {
 			setTimeout(() => {
 				resolve('Promise resolved after 1 second');
-			}, seconds * 1000); // 1000 milliseconds = 1 second
+			}, ms);
 		});
 	}
 	// eslint-disable-next-line @typescript-eslint/no-unused-vars
@@ -319,8 +330,9 @@ export class MockSeeClickFixService implements SeeClickFixService {
 	}
 	async getIssues(params: GetIssuesParams): Promise<IssuesResponse> {
 		// todo IRL implement a cache and stringify the params as the key, have cache expire quickly (2mins)
-		// await this.wait(1);
+		await this.wait(500);
 		const issuesRes = IssuesResponseSchema.parse(issues);
+		issuesRes.issues = shuffleArray(issuesRes.issues);
 		issuesRes.metadata.pagination.page = params.page;
 		issuesRes.metadata.pagination.next_page = params.page + 1;
 		issuesRes.metadata.pagination.previous_page = params.page == 1 ? undefined : params.page - 1;
